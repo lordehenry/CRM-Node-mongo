@@ -1,0 +1,10 @@
+{
+  "App": {
+    "webserver": {
+      "port": 5000
+    }
+  },
+  "MongoDB": {
+    "connectionString": "mongodb+srv://vin3:<password>@cluster0.8v1md.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  }
+}
